@@ -1,12 +1,17 @@
-CREDITS
+#CREDITS
 <size=8>CREDITS:
 <size=5>Monkii - creator
 apache_  - som shaders 😋
-
-MODT
+#CREDITSEND
+#MODT
 <size=8>MODT:
 <size=5>testin
+#MODTEND
 
+#FOREST
 FORESTGROUND=Grass
+#FORESTEND
 
+#MODS
 MODS:Monkii
+#MODSEND
